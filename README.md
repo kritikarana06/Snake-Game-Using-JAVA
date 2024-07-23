@@ -16,7 +16,7 @@ To run the game, you need to have Java installed on your system. Follow these st
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/snake.git
+    git clone https://github.com/kritikarana06/snake.git
     cd snake
     ```
 
@@ -66,7 +66,7 @@ public class App {
     }
 }
 
-# 'SnakeGame.java'
+# `SnakeGame.java`
 This file contains the logic for the Snake game, including the game loop, rendering, and handling user input.
 
 
