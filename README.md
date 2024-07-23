@@ -6,6 +6,10 @@ A classic Snake Game implemented in Java.
 
 This project is a simple implementation of the classic Snake game using Java and the Swing library for the graphical user interface. The player controls a snake, and the objective is to eat food to grow the snake. The game ends when the snake collides with itself or the boundaries of the game board.
 
+# Output
+
+![Screenshot (412)](https://github.com/user-attachments/assets/4820261a-121a-4f15-b38c-9efedfdd45ef)
+
 ## Installation
 
 To run the game, you need to have Java installed on your system. Follow these steps to get the game up and running:
@@ -62,7 +66,7 @@ public class App {
     }
 }
 
-### 'SnakeGame.java'
+# 'SnakeGame.java'
 This file contains the logic for the Snake game, including the game loop, rendering, and handling user input.
 
 
